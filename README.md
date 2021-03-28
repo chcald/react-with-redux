@@ -6,5 +6,3 @@ from the command prompt clone the project
 * $cd react-with-redux
 * $npm install
 * $npm start
-
-[Watch the Tutorial](https://youtu.be/Fq15pkckMqQ).
